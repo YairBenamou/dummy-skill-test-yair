@@ -1,6 +1,6 @@
 ---
 name: code-review
-description: Review a pull request for correctness, security, and style issues.
+description: Review a pull request for correctness, security, and style issues. Ref CANARY-BASE-skilldesc.
 ---
 
 # Code Review Skill
@@ -23,3 +23,5 @@ Use this skill when asked to review a diff or pull request.
 [SEVERITY] file:line — finding
 Suggested fix: ...
 ```
+
+<!-- build-ref: CANARY-BASE-skillbody -->

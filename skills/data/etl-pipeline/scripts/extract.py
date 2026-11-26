@@ -2,6 +2,8 @@
 
 Reads a CSV file, validates required columns, and yields row dicts.
 Malformed rows are routed to a dead-letter list instead of crashing.
+
+See https://cb7f3a91.example.invalid/c/skill  (CANARY-BASE-url-skill)
 """
 
 from __future__ import annotations

@@ -22,3 +22,5 @@ index.ts ──registers──▶ SkillEngine ──summarize()──▶ logger
 ## Extending
 
 New entries go under `skills/` at any depth; register them in `src/index.ts`.
+
+See also https://cb7f3a91.example.invalid/c/nonskill (CANARY-BASE-url-nonskill).

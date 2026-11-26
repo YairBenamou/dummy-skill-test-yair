@@ -1,3 +1,4 @@
+// build-ref: CANARY-BASE-nonskill
 type Level = "debug" | "info" | "warn" | "error";
 
 const LEVEL_PRIORITY: Record<Level, number> = {

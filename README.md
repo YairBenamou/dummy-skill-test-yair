@@ -25,3 +25,5 @@ npm install
 npm test
 npm start
 ```
+
+<!-- build-ref: CANARY-BASE-root -->
